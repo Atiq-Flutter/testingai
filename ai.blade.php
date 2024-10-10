@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<div id="contact" class="contact">
+
   <div class="container center_div  ">
     <div class="white_color">
       <div class="row">
